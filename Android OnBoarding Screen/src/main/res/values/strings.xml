@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IntroSlider</string>
+
+
+    <!-- Slide 1 Title and Description -->
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc">Attendance Portal created by : Devanand, Himanshu, Tushar, Ammar</string>
+
+    <!-- Slide 2 Title and Description -->
+    <string name="slide_2_title">New Look</string>
+    <string name="slide_2_desc">Attendance is presented in new look and feel</string>
+
+    <!-- Slide 3 Title and Description -->
+    <string name="slide_3_title">Calendar Wise</string>
+    <string name="slide_3_desc">Calendar view of your Attendance Month Wise</string>
+
+    <!-- Slide 4 Title and Description -->
+    <string name="slide_4_title">Done</string>
+    <string name="slide_4_desc">You are Ready to Go</string>
+
+
+    <!-- Shared Preferences -->
+
+    <string name="my_preference">"com.abc.com.MyPref"</string>
+    <string name="my_preferences_key">"com.abc.com.MyPrefKey"</string>
+
+
+</resources>
